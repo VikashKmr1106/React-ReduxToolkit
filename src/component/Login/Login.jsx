@@ -113,7 +113,7 @@ const Login = () => {
         <div className='w-full sm:w-1/2 lg:w-1/3 bg-zinc-700 p-4 rounded-md shadow-xl'>
           <div className="bg-white p-8 rounded">
             <h1 className="text-2xl text-center font-bold mb-4 underline underline-offset-8">Login</h1>
-            <p> emilys  ----- emilyspass</p>
+            <p> This userId and password  for Login : username:  emilys , password : emilyspass</p>
             <form onSubmit={handleSubmit}>
               <div className="mb-4">
                 <label htmlFor="username" className="block text-gray-700 font-bold mb-2">Username</label>
